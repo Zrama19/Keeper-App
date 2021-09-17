@@ -4,11 +4,13 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 body {
   background: #eee;
   padding: 0 16px;
+  background-image: url('https://www.transparenttextures.com/patterns/fabric-plaid.png');
+  background-color: #0c00b8;
 }
 
 header {
@@ -20,8 +22,9 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  font-family: 'McLaren', cursive;
   font-weight: 200;
+  text-align: center;
 }
 
 footer {
